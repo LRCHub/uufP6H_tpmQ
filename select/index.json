@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "邂逅",
+  "base_artist": "Hotaru",
+  "createdAt": "2026-02-08T17:30:27.510150Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/01_邂逅_milet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_邂逅_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "林憶蓮",
+      "has_synced": false,
+      "path": "select/03_邂逅_林憶蓮.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "優客李林",
+      "has_synced": false,
+      "path": "select/04_邂逅_優客李林.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "Mashiro Ayano",
+      "has_synced": false,
+      "path": "select/05_邂逅_Mashiro_Ayano.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "Ayano, Mashiro",
+      "has_synced": true,
+      "path": "select/06_邂逅_Ayano,_Mashiro.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "徐良",
+      "has_synced": true,
+      "path": "select/07_邂逅_徐良.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "邂逅 [Encounter]",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/08_邂逅_[Encounter]_milet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "刘文正",
+      "has_synced": false,
+      "path": "select/09_邂逅_刘文正.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "邂逅(KARA)",
+      "artist": "鳳飛飛",
+      "has_synced": false,
+      "path": "select/10_邂逅(KARA)_鳳飛飛.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "湯薇恩, 周瑋賢",
+      "has_synced": true,
+      "path": "select/11_邂逅_湯薇恩,_周瑋賢.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "辛曉琪",
+      "has_synced": true,
+      "path": "select/12_邂逅_辛曉琪.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "邂逅 (Album Version)",
+      "artist": "刘德华",
+      "has_synced": true,
+      "path": "select/13_邂逅_(Album_Version)_刘德华.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "邂逅",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/14_邂逅_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "邂逅",
+      "artist": "Hotaru",
+      "has_synced": false,
+      "path": "select/pl_01_邂逅_Hotaru.txt"
+    }
+  ]
+}
